@@ -1,0 +1,19 @@
+Bug Report Structure 
+Project
+Subject
+Description
+Summary
+Detected By (Name of the Software Tester)
+Assigned To (Name of the Developer of the feature)
+Test Lead (Name)
+Detected in Version
+Closed in Version
+Date Detected
+Expected Date of Closure
+Actual Date of Closure
+Priority (Medium, Low, High, or Urgent)
+Severity (Range => 1 to 5)
+Status.
+Bug ID
+Attachment
+Test case Failed (Total no. of Test cases which are failing for a Bug)
